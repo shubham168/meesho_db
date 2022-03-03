@@ -1065,7 +1065,9 @@
             "title": "Beardo SPY Perfume Bot & Fragrances",
             "original_price": 490,
             "discounted_price": 390,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/70702124/nwgmd_512.jpg"
             ],
@@ -1084,7 +1086,9 @@
             "title": "Fogg amaze and charm",
             "original_price": 305,
             "discounted_price": 214,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/705120576/4dwes_512.jpg"
             ],
@@ -1103,7 +1107,9 @@
             "title": "Sensational Natu",
             "original_price": 194,
             "discounted_price": 136,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/61990959/gi0zg_512.jpg"
             ],
@@ -1122,7 +1128,9 @@
             "title": "DENVER Hamilton Gift",
             "original_price": 399,
             "discounted_price": 299,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/66514307/gr5gv_512.jpg"
             ],
@@ -1141,7 +1149,9 @@
             "title": "Wow Vitamin ",
             "original_price": 493,
             "discounted_price": 393,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/71051073/c8nwu_512.jpg"
             ],
@@ -1160,7 +1170,9 @@
             "title": "Original Swiss",
             "original_price": 183,
             "discounted_price": 129,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/71030282/vbba3_512.jpg"
             ],
@@ -1179,7 +1191,9 @@
             "title": "AKilli Teeth Whiteninder",
             "original_price": 310,
             "discounted_price": 217,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/2668142/1_512.jpg"
             ],
@@ -1198,7 +1212,9 @@
             "title": "Oral Tongue Cleanr",
             "original_price": 182,
             "discounted_price": 119,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/61022657/ewsm4_512.jpg"
             ],
@@ -1217,7 +1233,9 @@
             "title": "nail paint",
             "original_price": "120",
             "discounted_price": 60,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/70867248/kuynn_512.jpg"
             ],
@@ -1236,7 +1254,9 @@
             "title": "Premium combinal_price",
             "original_price": 194,
             "discounted_price": 136,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/70586121/mxn5l_512.jpg"
             ],
@@ -1255,7 +1275,9 @@
             "title": "Flower musicrice",
             "original_price": 115,
             "discounted_price": 73,
-            "sizes": "Free Size",
+            "sizes": [
+                "Free Size"
+            ],
             "images": [
                 "https://images.meesho.com/images/products/59419044/fnkqp_512.jpg"
             ],
@@ -2247,7 +2269,7 @@
             "original_price": 799,
             "discounted_price": 666,
             "sizes": [
-                "Free size"
+                "Free Size"
             ],
             "images": [
                 "https://images.meesho.com/images/products/35623500/cuems_512.jpg"
